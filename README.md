@@ -5,8 +5,6 @@ Zdecydowaliśmy się je wykorzystać do utowrzenia interaktywnej gry w "kółko 
 ## Spis Treści
 * [Główne Informacje](#główne-informacje)
 * [Funkcje](#funkcje)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Miejsce do poprawy](#miejsce-do-poprawy)
 * [Zrzuty Ekranu](#zrzuty-ekranu)
 * [Kontakt](#kontakt)
@@ -18,25 +16,14 @@ Zdecydowaliśmy się je wykorzystać do utowrzenia interaktywnej gry w "kółko 
 - Naszym celem było stworzenie popularnej gry "kółko i krzyżyk", którą bardzo lubimy.
 
 
-
 ## Funkcje
 - przycisk do zresetowania gry, pozwala na całkowite zresetowanie planszy do gry w przypadku popełnionego błędu
 - licznik wygranych zarówno gracza jak i komputera
 - kolory pól, które łatwo pozwalają określić jakie pola należą do gracza, a które do komputera
+- pole, które pokazuje komunikat o zwycięstwie
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-
-## Miejsce do porpawy
+## Miejsce do poprawy
 Są pewne elementy które można poprawić w projekcie np.
 
 - dopisać kod, który narzucałby CPU aby wybierał pola, które pozwolą mu na wygraną.
