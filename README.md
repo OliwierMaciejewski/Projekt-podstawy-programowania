@@ -13,7 +13,8 @@ Zdecydowaliśmy się je wykorzystać do utowrzenia interaktywnej gry w "kółko 
 
 ## Główne Informacje
 - Projekt został wykonany w grupie dwuosobowej w skład, której wchodzą Klaudia Bojarska i Oliwier Maciejewski.
-- Naszym celem było stworzenie popularnej gry "kółko i krzyżyk", którą bardzo lubimy.
+- Aplikacja pozwala na zagranie w grę "Kółko i krzyżyk"
+- Projekt skierowany jest do osób, które szukają interaktywnej aplikacji, w którą mogą zagrać.
 
 
 ## Funkcje
