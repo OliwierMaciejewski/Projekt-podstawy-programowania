@@ -1,15 +1,14 @@
 # Projekt - Kółko i krzyżyk
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Projekt został utworzony na podstawie umiejętności, które nabyliśmy na zajęciach.
+Zdecydowaliśmy się je wykorzystać do utowrzenia interaktywnej gry w "kółko i krzyżyk".
 
 ## Spis Treści
 * [Główne Informacje](#główne-informacje)
-* [Features](#features)
+* [Funkcje](#funkcje)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Miejsce do poprawy](#miejsce-do-poprawy)
 * [Zrzuty Ekranu](#zrzuty-ekranu)
-* [Inspiracja](#inspiracja)
 * [Kontakt](#kontakt)
 <!-- * [License](#license) -->
 
@@ -20,11 +19,10 @@
 
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Funkcje
+- przycisk do zresetowania gry, pozwala na całkowite zresetowanie planszy do gry w przypadku popełnionego błędu
+- licznik wygranych zarówno gracza jak i komputera
+- kolory pól, które łatwo pozwalają określić jakie pola należą do gracza, a które do komputera
 
 
 ## Setup
@@ -37,8 +35,6 @@ Proceed to describe how to install / setup one's local environment / get started
 How does one go about using it?
 Provide various use cases and code examples here.
 
-`write-your-code-here`
-
 
 ## Miejsce do porpawy
 Są pewne elementy które można poprawić w projekcie np.
@@ -46,17 +42,12 @@ Są pewne elementy które można poprawić w projekcie np.
 - dopisać kod, który narzucałby CPU aby wybierał pola, które pozwolą mu na wygraną.
 Czasami, gdy jest już jedno pole od wygranej nie wybiera go.
 
+- można także udoskonalić wygląd okna do gry aby był bardziej nowoczesny.
+
 
 ## Zrzuty Ekranu
 ![Zrzut ekranu 1](./zrzutekranu1.png)
 ![Zrzut ekranu 2](./zrzutekranu2.png)
-
-
-## Inspiracja
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 ## Kontakt
