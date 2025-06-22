@@ -48,9 +48,8 @@ Czasami, gdy jest już jedno pole od wygranej nie wybiera go.
 
 
 ## Zrzuty Ekranu
-![Zrzut ekranu 1](./img/screenshot.png)
-![Zrzut ekranu 2](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Zrzut ekranu 1](./zrzutekranu1.png)
+![Zrzut ekranu 2](./zrzutekranu2.png)
 
 
 ## Inspiracja
